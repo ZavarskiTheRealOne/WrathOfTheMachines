@@ -115,7 +115,7 @@ NPCs: {
 		EndOfBattle_SuccessiveDefeat4_ImproveHitCounter: Если ты пожелаешь вновь вызвать мои машины, я рекомендую улучшить навыки уворота.
 		EndOfBattle_SuccessiveDefeat4_Bad: Более утончённый подход к битве привёл бы к более точному анализу.
 		EndOfBattle_SuccessiveDefeat4_WhyDidYouMeltTheBoss: Эта битва была слишком, слишком короткой, чтобы прийти к каким-то выводам.
-		EndOfBattle_SuccessiveDefeat5: Я буду ожидать    нашей следующей битвы.
+		EndOfBattle_SuccessiveDefeat5: Я буду ожидать нашей следующей битвы.
 		EndOfBattle_FirstDefeatReconBodyKill1: Интригующе...
 		EndOfBattle_FirstDefeatReconBodyKill2: Темпераментный нрав не входил в данные для рассчётов.
 		EndOfBattle_FirstDefeatReconBodyKill3: Как бы то ни было...
